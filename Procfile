@@ -1,1 +1,1 @@
-worker: python my_library.py
+worker: python my_libra.py
