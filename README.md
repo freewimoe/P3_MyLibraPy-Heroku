@@ -33,6 +33,12 @@ The source code is available on GitHub:
 
 🔗 [https://github.com/freewimoe/P3_MyLibraPy-Heroku](https://github.com/freewimoe/P3_MyLibraPy-Heroku)
 
+the original code is as well available on GitHub: 
+
+🔗 [https://github.com/freewimoe/P3_MyLibraPy] (https://github.com/freewimoe/P3_MyLibraPy)
+
+a flask version is available on Heroku as well: 
+🔗 [https://mylibrapy-flask-f0d2bbe3d176.herokuapp.com/] (https://mylibrapy-flask-f0d2bbe3d176.herokuapp.com/)
 ---
 
 ## 🛠️ How Heroku Runs This CLI App
